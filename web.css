@@ -12,6 +12,10 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
+    color: black;
+    text-shadow: 1.5px 1.5px 1.5px lightgray;
+    font-size: 1.5em;
+    font-weight: bolder;
 }
 .hero{
     position: relative;
@@ -36,4 +40,7 @@ body{
 }
 h1{
     text-align: center;
+}
+main{
+    ba
 }
