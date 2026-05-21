@@ -6,6 +6,10 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
+    color: black;
+    text-shadow: 1.5px 1.5px 1.5px lightgray;
+    font-size: 1.5em;
+    font-weight: bolder;
 }
 .hero{
     position: relative;
@@ -31,6 +35,7 @@ body{
 h1{
     text-align: center;
 }
+<<<<<<< HEAD
 table{
     width: 100%;
 }
@@ -42,4 +47,8 @@ img{
     width: 100%;
     height: auto;
     display: block;
+=======
+main{
+
+>>>>>>> d174c17e86a9236e0ac05626acb6423d2075cd77
 }
