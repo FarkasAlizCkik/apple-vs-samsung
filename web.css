@@ -1,0 +1,30 @@
+body{
+    background-image: url(háttér.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.hero{
+    position: relative;
+    background-image:
+    linear-gradient(
+        to right,
+        rgba(255,255,255,0.15),
+        rgba(0,0,0,0.55)
+    ),
+    url("4978c482-1d61-44c2-98eb-be5d1f5510d5.png");
+
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.text-box{
+    background: rgba(0,0,0,0.35);
+    backdrop-filter: blur(8px);
+    padding: 20px;
+    border-radius: 20px;
+    color: white;
+}
+h1{
+    text-align: center;
+}
