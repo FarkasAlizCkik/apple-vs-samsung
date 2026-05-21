@@ -11,6 +11,7 @@ body{
     font-size: 1.5em;
     font-weight: bolder;
     margin: 30px;
+    text-align: justify;
 }
 .hero{
     position: relative;
@@ -42,9 +43,19 @@ table{
 td{
     width: 25%;
     padding: 20px;
+    text-align: center;
 }
 img{
     width: 100%;
     height: auto;
     display: block;
+}
+a{
+    color: black;
+}
+.kozep{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
 }
