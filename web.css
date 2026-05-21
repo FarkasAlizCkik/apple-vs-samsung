@@ -16,6 +16,7 @@ body{
     text-shadow: 1.5px 1.5px 1.5px lightgray;
     font-size: 1.5em;
     font-weight: bolder;
+    margin: 30px;
 }
 .hero{
     position: relative;
@@ -32,15 +33,12 @@ body{
     background-attachment: fixed;
 }
 .text-box{
-    background: rgba(0,0,0,0.35);
-    backdrop-filter: blur(8px);
+    background: rgba(0, 0, 0, 0.288);
     padding: 20px;
     border-radius: 20px;
+    overflow: hidden;
     color: white;
 }
 h1{
     text-align: center;
-}
-main{
-
 }
