@@ -13,6 +13,27 @@ body{
     margin: 30px;
     text-align: justify;
 }
+#apple{
+    background-image: url(apple\ háttér.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: black;
+}
+.hero2{
+    position: relative;
+    background-image: url("apple\ háttér.png");
+}
+#samsung{
+    background-image: url(samsung\ háttér.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: ghostwhite;
+}
+.b{
+    color: ghostwhite;
+}
 .hero{
     position: relative;
     background-image:
