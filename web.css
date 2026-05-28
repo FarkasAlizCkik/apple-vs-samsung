@@ -10,15 +10,16 @@ body{
     text-shadow: 1.5px 1.5px 1.5px lightgray;
     font-size: 1.5em;
     font-weight: bolder;
-    margin: 30px;
+    margin: 10px;
     text-align: justify;
 }
 #apple{
-    background-image: url(apple\ háttér.png);
+    background-image: url(84adff71-9dff-4da4-8f96-3173eb3d625e.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
-    color: black;
+    color: ghostwhite;
+    text-shadow: none;
 }
 .hero2{
     position: relative;
@@ -60,6 +61,7 @@ h1{
 }
 table{
     width: 100%;
+    background-color: rgba(rgba(131, 129, 129, 0.514), green, blue, alpha)
 }
 td{
     width: 25%;
